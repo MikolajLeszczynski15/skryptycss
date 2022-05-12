@@ -1,0 +1,23 @@
+body {
+    background-image: url(back.png);
+    background-size: cover;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+}
+#content {
+    height: 90%;
+    width: 90%;
+    background-color: rgba(240, 248, 255, 0.56);
+     margin-top: 5%;
+     margin-bottom: 5%;
+     margin-left: 5%;
+     margin-right: 5%;
+     font-size: 25px;
+     border-radius:35px;
+}
+#logo {
+    text-align: center;
+    float:left;
+    clear:both;
+    width: 100%;
+}
